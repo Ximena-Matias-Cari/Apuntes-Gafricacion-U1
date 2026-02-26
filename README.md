@@ -1,4 +1,6 @@
 # Apuntes-Gafricacion-U1
+<img width="708" height="814" alt="image" src="https://github.com/user-attachments/assets/66c795c0-e383-49c3-8103-318d4989e04e" />
+
 ## Unidad I – Introducción a la Graficación por Computadora
 
 Este repositorio contiene la investigación documental correspondiente a la Unidad I de la materia Graficación por Computadora.
